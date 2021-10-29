@@ -101,7 +101,7 @@ Example Method:
 
 1D,1M,3M,YTD,1Y,3Y,5Y,10Y,ALL
  
- for automatic scraping all method, you can use index.sh
+ for automatic scraping all method, you can use index.sh and uncomment a function / all functions
 
     bash index.sh
 
