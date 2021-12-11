@@ -118,8 +118,9 @@ cat $FolderName/allReksadana.txt | jq -r '.[].symbol' | sed 's/^/timeout 15 node
 echo "GenerateSwitchables End"
 }
 
+Generatelist
+
 ### UNCOMMENT TO USE FUNCTION ###
-#Generatelist
 #GenerateFolder
 #GenerateProduct
 #GenerateProspectus
